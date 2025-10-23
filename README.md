@@ -1,6 +1,7 @@
 # Iterable MCP Server
 
-This project implements a Model Context Protocol (MCP) server that provides tools to interact with the Iterable API. It allows you to fetch lists, retrieve users by list name, and get user details by email from your Iterable account.
+Custom Iterable MCP is a Model Context Protocol (MCP) server that enables AI systems to interact directly with the Iterable API. It provides tools to fetch contact lists, retrieve users by list name, and obtain user details by email from your Iterable account.
+By integrating Iterable’s marketing data with AI-driven workflows, this MCP server allows intelligent agents to securely access, analyze, and automate campaign-related actions within Iterable, streamlining data-driven marketing operations through standardized AI communication.
 
 ## Description
 
